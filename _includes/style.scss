@@ -2,3 +2,59 @@
 @import "home";
 @import "header";
 @import "section";
+
+/* Share buttons */
+.sharebuttons {
+  margin: 0 auto 0 auto;
+}
+
+.sharebuttons ul {
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;
+  margin-right:10px;
+}
+
+.sharebuttons ul li svg {
+  width: 30px;
+  height: 30px;
+}
+
+.sharebuttons .facebook svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .hn svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .twitter svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .linkedin svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .snapchat svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .instagram svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .medium svg {
+  fill: #d3d3d3;
+}
+
+.sharebuttons .github svg {
+  fill: #d3d3d3;
+}

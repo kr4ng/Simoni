@@ -1,20 +1,21 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Steven Simoni
+bio: A guy who wants to be witty
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Hi my name is Steven
 
 picture: assets/images/picture.jpg
 
-url: http://koppl.in/violet
+url: http://kr4ng.github.io
+# url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+facebook: steven.m.simoni
+twitter: StevenSimoni
+github: kr4ng
+email: steve@stevensimoni.com
 
 gems:
   - jekyll-seo-tag
